@@ -1,5 +1,5 @@
 ---
-title: "Game Design Documents"
+title: "Your own design document"
 slug: your-own-design-document
 ---
 
