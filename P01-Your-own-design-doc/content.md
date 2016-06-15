@@ -141,6 +141,6 @@ Only once you have a list of tasks that fit in 25 days should you start dividing
 
 # Wrapping Up
 
-Read your design document over to make sure everything makes sense. Check dependencies -- tasks should be in order of completion!
+Read your design document over to make sure everything makes sense. Check dependencies -- tasks should be in order of completion! Edit as necessary.
 
-Edit as necessary. Ready to create on for your actual game?
+Always keep this up to date. You should be referencing it daily and updating it at least twice a week.
