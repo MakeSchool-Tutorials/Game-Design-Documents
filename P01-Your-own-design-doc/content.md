@@ -1,27 +1,12 @@
 ---
 title: "Game Design Documents"
-slug: game-design-documents
+slug: your-own-design-document
 ---
 
-A _Game Design Document_ (GDD) is meant to detail the objective, mechanics, level design, technical requirements, and development milestones for your game. It is a _living document_. You should be consistently updating your design document throughout development. If you are not updating your design document at least twice a week, then you are falling behind!
-
-Having a completed design document makes it much easier to visualize your progress throughout development and keep track of what you have accomplished. It will help you make the correct decisions if you need to cut features because you are behind schedule or add features because you are ahead of schedule. Whenever you decide to change some aspect of your game's design or development schedule, make sure to update your design document!
-
-# Your first Game Design Document
-
-To get started, we will be writing a Game Design Document for one of the tutorial games!
+Now that you have some practice, let's write a Game Design Document for your own tutorial games!
 
 > [action]
-> Choose one of the tutorial games you have completed -- as a reminder, they are:
->
-1. Hoppy Bunny (Flappy Bird)
-1. Conway's Game of Life
-1. Peeved Penguins (Angry Birds)
-1. Sushi Neko (Timberman)
->
-Try and choose a game similar to the one you want to make yourself! If you want to make a physics-based runner, choose Hoppy Bunny. If you want to make a grid-based game/puzzler, choose Conway's Game of Life. Choose Peeved Penguins if you want to make a physics puzzler and choose Sushi Neko if you want to make a reaction-based (physics-free) infinite runner.
->
-> Log into [GitHub](http://github.com) and create a new repository titled after the demo game. You can use your completed game repository if you have been using git/SourceTree/GitHub already!
+> Log into [GitHub](http://github.com) and create a new repository for your own game. You can use a previous repository if you've gotten started already!
 >
 > When viewing the new repository, there will be a link in the top bar that says "Wiki". Click on that and create a new page titled "Game Design Document"
 >
@@ -108,7 +93,7 @@ _submitting to the App Store_
 [Back to top ^](#)
 ```
 
-Time to start writing your GDD!
+You've been through the motions already. Time to get it done for you own game! The steps below are the same as you went through on the previous page. They are listed for reference -- make sure to go through them all!
 
 # Game Design
 
