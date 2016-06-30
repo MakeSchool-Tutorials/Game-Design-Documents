@@ -120,6 +120,12 @@ Explain the goal of your game in 2-3 sentences.
 
 This is where you explain your game's core loop(s), whether your game is real time or turn based, single player or multiplayer, social or not, and any key aspects of your gameplay - this could be anything from your power-up system to special enemy types to the ability to rewind time.
 
+## Level Design
+
+Here you need to think about what principles you will follow when designing a level. Describe what a typical level will look like but also list any constraints your game's design will place on the levels. For example, you may decide that every level will have a section where the player cannot mess up, like in Tiny Wings, or you may want to note that levels in your game should designed so no backtracking is necessary.
+
+If you game is auto-generated (infinite runners like Flappy Bird / Timberman), use this space to describe how difficulty will increase over time.
+
 # Technical
 
 ## Scenes
@@ -131,12 +137,6 @@ As you paper prototype your game and progress through iterations, be sure to add
 ## Controls
 
 How will the player interact with the game.
-
-## Level Design
-
-Here you need to think about what principles you will follow when designing a level. Describe what a typical level will look like but also list any constraints your game's design will place on the levels. For example, you may decide that every level will have a section where the player cannot mess up, like in Tiny Wings, or you may want to note that levels in your game should designed so no backtracking is necessary.
-
-If you game is auto-generated (infinite runners like Flappy Bird / Timberman), use this space to describe how difficulty will increase over time.
 
 # Minimum Viable Product Milestones
 
