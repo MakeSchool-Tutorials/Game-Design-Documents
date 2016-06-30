@@ -97,6 +97,25 @@ You've been through the motions already. Time to get it done for you own game! T
 
 # Game Design
 
+> [info]
+> If you want a peek into a more formal way of looking at game design, you should check out [this Extra Credits video](https://www.youtube.com/watch?v=uepAJ-rqJKA) explaining the [MDA framework](http://www.cs.northwestern.edu/~hunicke/MDA.pdf).
+>
+> If you decide to take the MDA approach, your sections in _Game Design_ will be...
+>
+> - **Aesthetics** - pick 1-3 aesthetics to focus on from this list:
+>   - Sensation (Game as sense-pleasure): Player experience something completely unfamiliar.
+>   - Fantasy (Game as make-believe): Imaginary world.
+>   - Narrative (Game as drama): A story that drives the player keep coming back
+>   - Challenge (Game as obstacle course): Urge to master something. Boosts a game's replay.
+>   - Fellowship (Game as social framework): A community where the player is an active part of it. Almost exclusive for interactive multiplayer games.
+>   - Discovery (Game as uncharted territory): Urge to explore game world.
+>   - Expression (Game as self-discovery): Own creativity. For example, creating character resembling player's own avatar.
+>   - Submission (Game as pastime): Connection to the game, as a whole, despite of constraints.
+> - **Mechanics** - what mechanics will you use to accomplish your aesthetic goals?
+> - **Dynamics** - what dynamics do you hope will arise from these mechanics, and how will they contribute to your aesthetic targets?
+>
+> Remember, you are still designing for mobile and working under strict time constraints! Do not overscope the technical aspects of your game or choose an idea that is too content heavy.
+
 ## Objective
 
 Explain the goal of your game in 2-3 sentences.
@@ -104,6 +123,12 @@ Explain the goal of your game in 2-3 sentences.
 ## Gameplay Mechanics
 
 This is where you explain your game's core loop(s), whether your game is real time or turn based, single player or multiplayer, social or not, and any key aspects of your gameplay - this could be anything from your power-up system to special enemy types to the ability to rewind time.
+
+## Level Design
+
+Here you need to think about what principles you will follow when designing a level. Describe what a typical level will look like but also list any constraints your game's design will place on the levels. For example, you may decide that every level will have a section where the player cannot mess up, like in Tiny Wings, or you may want to note that levels in your game should designed so no backtracking is necessary.
+
+If you game is auto-generated (infinite runners like Flappy Bird / Timberman), use this space to describe how difficulty will increase over time.
 
 # Technical
 
@@ -116,12 +141,6 @@ As you paper prototype your game and progress through iterations, be sure to add
 ## Controls
 
 How will the player interact with the game.
-
-## Level Design
-
-Here you need to think about what principles you will follow when designing a level. Describe what a typical level will look like but also list any constraints your game's design will place on the levels. For example, you may decide that every level will have a section where the player cannot mess up, like in Tiny Wings, or you may want to note that levels in your game should designed so no backtracking is necessary.
-
-If you game is auto-generated (infinite runners like Flappy Bird / Timberman), use this space to describe how difficulty will increase over time.
 
 # Minimum Viable Product Milestones
 
